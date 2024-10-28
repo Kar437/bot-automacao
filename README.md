@@ -15,5 +15,5 @@ Um bot de automação de tarefas desenvolvido com python, utlilizando as bibliot
 
 - Faça a instalação das bibliotecas utilizando, no terminal o comando ``` pip install pyautogui pandas```
 - Execute o arquivo ```bot_automação.py``` no seu editor de prefêrencia.
-- Antes de executar o aquivo, verifique se a posição dos cliques com ```pyautogui.click()``` nas linhas 30 e 52 correspondem à posição dos correta no seu monitor.
+- Antes de executar o aquivo, verifique se a posição dos cliques com ```pyautogui.click()``` nas linhas 30 e 52 correspondem à posição correta no seu monitor.
 -  Para obter a posição exata da área de clique, execute o arquivo ```rastreio_mouse.py```.
